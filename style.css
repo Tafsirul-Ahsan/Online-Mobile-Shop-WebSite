@@ -1,0 +1,145 @@
+.bg-light{
+	background-color:#719B19 !important; 
+}
+.navbar-brand{
+	color:white !important;
+	font-family:arial black !important;
+}
+
+h3{
+	text-align:center;
+}
+
+.list-group-item:hover{
+	background-color: #E6F15E !important;
+}
+
+.list-group-item{
+	color:#160473;
+	font-size:18px;
+	font-family:Berlin Sans FB;
+}
+
+i{
+	color:#74C20B;
+	height:10px;
+}
+.btn-outline-success {
+	background-color:#0BC2A6;
+	color:white;
+}
+
+.borderEx{
+	border-style:solid;
+	height:100px;
+	width:300px;
+	border-color:#74C20B;
+	
+}
+
+h5{
+	text-align:center;
+}
+
+.footer{
+
+	height:280px;
+	background-color:#E0EF8C;
+}
+
+.footer{
+	text-align:center;
+}
+.AcerLiquidZ320{
+	padding:20px;
+	color:blue;
+	border-style:none;
+	background: #88F5BF;
+	border-radius:20px;
+	width:400px;
+	
+}
+.AcerLiquidZ320Price{
+
+	border-style:none;
+	background: #F0F6C8 ;
+	width:630px;
+	text-align:center;
+	
+}
+.AcerLiquidZ320Specifications{
+	border-style:none;
+	background: #E7F1AC ;
+	width:100%;
+	color:#F3520C ;
+	text-align:justify;
+	font-family:Berlin Sans FB;
+	
+}
+
+table{
+	background:#FBFAF9  ;
+}
+.AcerLiquidZ530SNote{
+	border-style:none;
+	background-color:#D6CDCA;
+	color:#F9534E;
+	text-align:justify;
+}
+.AcerLiquidZ320Sfullpecifications{
+	text-align:justify;
+
+}
+
+.logoborder1{
+	border-style:solid;
+	color:black;
+	border-width:1px;
+	width:150px;
+	height:150px;
+}
+.logoborder2{
+	border-style:solid;
+	color:black;
+	width:150px;
+	height:150px;
+	border-width:1px;
+}
+
+.logoborder3{
+	border-style:solid;
+	border-width:1px;
+	color:black;
+	width:150px;
+	height:150px;
+		
+}
+.logoborder4{
+	border-style:solid;
+	border-width:1px;
+	color:black;
+	width:150px;
+	height:150px;
+	;	
+}
+.logoborder5{
+	border-style:solid;
+	border-width:1px;
+	color:black;
+	width:150px;
+	height:150px;
+}	
+.logoborder6{
+	border-style:solid;
+	border-width:1px;
+	color:black;
+	width:150px;
+	height:150px;
+		
+}
+
+
+
+
+
+
